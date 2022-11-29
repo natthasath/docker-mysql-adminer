@@ -8,7 +8,7 @@ Adminer (formerly phpMinAdmin) is a full-featured database management tool writt
 
 ### 🥈 Run
 
-- [http://localhost:8020/](http://localhost:8020/) username : `admin` password : `admin`
+- [http://localhost:8020/](http://localhost:8020/) username : `root` password : `root`
 
 ```shell
 docker-compose up -d
