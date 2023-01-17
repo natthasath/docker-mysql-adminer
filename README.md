@@ -1,6 +1,6 @@
 # 🎉 Docker MySQL Adminer
 
-Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB.
+MySQL and Adminer are open-source tools. MySQL is a database management system, while Adminer is a web-based interface for managing MySQL databases. Together, they provide an easy way to manage and interact with relational databases.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
