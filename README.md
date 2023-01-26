@@ -8,7 +8,7 @@ MySQL and Adminer are open-source tools. MySQL is a database management system, 
 
 ### 🥈 Run
 
-- [http://localhost:8020/](http://localhost:8020/) username : `root` password : `root`
+- [http://localhost:8080/](http://localhost:8080/) username : `root` password : `root`
 
 ```shell
 docker-compose up -d
