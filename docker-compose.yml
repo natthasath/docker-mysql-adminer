@@ -23,8 +23,10 @@ services:
 
 networks:
   default:
+    name: docker_mysql_adminer_network
     driver: bridge
 
 volumes:
   data:
+    name: docker_mysql_adminer_data
     driver: local
